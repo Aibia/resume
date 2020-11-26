@@ -1,12 +1,12 @@
 # Skills
 # Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+- skill: Python
+  description: matplotlib, seaborn을 이용한 데이터시각화 / pandas를 이용한 데이터분석 경험이 있습니다.
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: C
+  # description: Content and marketing strategy,
 
 # Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# - skill: Digital content development and creation
+#   description: Copy writing, graphic design, web design, front-end web development, print design
